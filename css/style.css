@@ -1,0 +1,32 @@
+
+@import "null.css";
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,regular,500,600&display=swap);
+
+body {
+	color: rgb(70, 66, 66);
+	font-family: "Poppins";
+	font-style: normal;
+	background-color: aqua;
+	
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+	margin: 100px 200px 0 200px ;
+
+}
+/* ------------------------------ */
+h1{
+	font-size: 40px;
+	font-weight: 600;
+}
+ p li{
+	padding:10px;
+	font-size: 20px;
+	font-weight: 300;
+}
+h2{
+	padding: 20px;
+	font-size: 30px;
+	font-weight: 500;
+}
